@@ -1,6 +1,6 @@
 /**
 宠汪汪强制为别人助力（助力一个好友你自己可以获得30积分，一天上限是帮助3个好友，自己获得90积分，不管助力是否成功，对方都会成为你的好友）
-更新地址：https://raw.githubusercontent.com/lxk0301/scripts/master/jd_joy_help.js
+更新地址：https://raw.githubusercontent.com/mzbqhbc/scripts/master/jd_joy_help.js
 更新时间：2020-08-28
 目前提供了304位好友的friendPin供使用。脚本随机从里面获取一个，助力成功后，退出小程序重新点击进去开始助力新的好友
 欢迎大家使用 https://jdjoy.jd.com/pet/getFriends?itemsPerPage=20&currentPage=1 (currentPage=1表示第一页好友，=2表示第二页好友)
